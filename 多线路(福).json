@@ -101,8 +101,8 @@
       "name": "🔵少儿"
     },
     {
-      "url": "https://weixine.net/ysc.json",
-      "name": "🔵唐三藏"
+      "url": "./福利源.json",
+      "name": "🔵福利"
     }
   ]
 }
