@@ -13,3 +13,5 @@ zyplayer：https://ghp.ci/https://raw.githubusercontent.com/wtming/yuan/refs/hea
 福利源：https://ghp.ci/https://raw.githubusercontent.com/wtming/yuan/refs/heads/main/%E7%A6%8F%E5%88%A9%E6%BA%90.json
 
 聚AV：https://ghp.ci/https://raw.githubusercontent.com/wtming/yuan/refs/heads/main/%E8%81%9AAV.json
+
+多线路（福利）：https://ghp.ci/https://raw.githubusercontent.com/wtming/yuan/refs/heads/main/%E7%A6%8F%E5%88%A9%E6%BA%90.json
